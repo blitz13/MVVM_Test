@@ -9,6 +9,6 @@ namespace mvvm.ViewModel
 {
     public class ShellViewModel : Screen
     {
-        //This is a test
+        //This is a 2nd test
     }
 }
