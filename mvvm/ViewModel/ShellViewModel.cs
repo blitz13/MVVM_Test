@@ -10,5 +10,6 @@ namespace mvvm.ViewModel
     public class ShellViewModel : Screen
     {
         //This is a 2nd test
+        //Test workspace commit in sourcetree... 
     }
 }
