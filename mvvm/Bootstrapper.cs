@@ -1,5 +1,5 @@
 ﻿using Caliburn.Micro;
-using mvvm.ViewModel;
+using mvvm.ViewModels;
 using System;
 using System.Collections.Generic;
 using System.Linq;
